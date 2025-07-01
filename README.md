@@ -18,3 +18,4 @@ The model was evaluated using the following metrics:
 R² Score: Measures the proportion of variance in the dependent variable explained by the model.
 Mean Squared Error (MSE): Quantifies the average squared difference between predicted and actual values.
 Performance was acceptable across all parameters, indicating the model's reliability for water quality prediction.
+![Output 2](https://github.com/user-attachments/assets/16fddd42-4cba-4ba6-90f7-6492d399d5d4)
